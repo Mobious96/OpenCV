@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\mobio\documents\visual studio 2015\projects\opencv\opencv\main.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  OpenCV.vcxproj -> C:\Users\Mobio\documents\visual studio 2015\Projects\OpenCV\x64\Debug\OpenCV.exe
+  OpenCV.vcxproj -> C:\Users\Mobio\documents\visual studio 2015\Projects\OpenCV\x64\Debug\OpenCV.pdb (Full PDB)
